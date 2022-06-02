@@ -16,3 +16,4 @@ name = "intro"
 [[bin]]
 name = "pres"
 ```
+To start a new Rust project: ```cargo init```
