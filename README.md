@@ -1,4 +1,4 @@
-# Rust-Introduction
+# Rust Introduction
 
 To install Rust: https://www.rust-lang.org/tools/install
 
